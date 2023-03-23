@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e9af871-0c61-46cd-bc90-a0dc84891d70" name="Changes" comment="Included method descriptions.">
-      <change afterPath="$PROJECT_DIR$/src/QuizTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year-11-CS-Iteration-Quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Year-11-CS-Iteration-Quiz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +30,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -53,7 +41,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Quiz">
+  <component name="RunManager" selected="JUnit.QuizTest">
     <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Quiz" />
       <module name="Year-11-CS-Iteration-Quiz" />
@@ -92,9 +80,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Quiz" />
         <item itemvalue="JUnit.QuizTest" />
         <item itemvalue="JUnit.QuizTest.numberOfVowels" />
+        <item itemvalue="Application.Quiz" />
         <item itemvalue="JUnit.QuizTest.notDivisible" />
       </list>
     </recent_temporary>
@@ -107,6 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679442699665</updated>
+      <workItem from="1679535466340" duration="2949000" />
     </task>
     <task id="LOCAL-00001" summary="Included method descriptions.">
       <created>1679443044066</created>
@@ -117,6 +106,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
